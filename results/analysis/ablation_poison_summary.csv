@@ -1,0 +1,5 @@
+Method,Poison_Ratio,acc_mean,acc_std,f1_mean
+DeepTrust,0.4,95.83,0.178,88.147
+DeepTrust,0.5,95.593,0.517,87.333
+FuzzyNoTrust,0.4,93.933,0.828,75.103
+FuzzyNoTrust,0.5,61.857,15.658,39.817

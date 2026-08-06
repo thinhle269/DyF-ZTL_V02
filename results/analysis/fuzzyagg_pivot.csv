@@ -1,0 +1,6 @@
+Method,0.2,0.4,0.6,0.8
+FuzzyFLTrust,95.65,95.5,95.2,95.14
+FuzzyKrum,94.0,62.12,0.57,0.06
+FuzzyMedian,94.41,94.41,1.72,0.55
+FuzzyMultiKrum,91.43,68.99,2.68,0.58
+FuzzyTrimmed,94.85,94.77,3.81,0.42

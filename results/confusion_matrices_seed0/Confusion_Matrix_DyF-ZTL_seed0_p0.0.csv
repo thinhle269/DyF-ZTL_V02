@@ -1,0 +1,8 @@
+,ddos,dos,injection,normal,password,scanning,xss
+ddos,681,0,0,0,0,0,0
+dos,0,75,0,1,0,0,0
+injection,0,0,91,0,0,0,0
+normal,39,42,23,3514,2,11,12
+password,0,0,0,5,534,0,0
+scanning,0,0,0,12,0,53,0
+xss,0,0,0,12,0,0,174

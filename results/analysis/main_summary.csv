@@ -1,0 +1,6 @@
+Method,Accuracy (mean),Accuracy (std),Accuracy (count),Detection Rate (Recall) (mean),Detection Rate (Recall) (std),Detection Rate (Recall) (count),Precision (mean),Precision (std),Precision (count),F1-Score (mean),F1-Score (std),F1-Score (count),False Alarm Rate (FAR) (mean),False Alarm Rate (FAR) (std),False Alarm Rate (FAR) (count),FAR Benign->Attack (mean),FAR Benign->Attack (std),FAR Benign->Attack (count),Training Time (s) (mean),Training Time (s) (std),Training Time (s) (count)
+DeepTrust,95.855,0.892,10,90.283,8.416,10,85.015,3.445,10,86.034,6.556,10,1.048,0.554,10,4.024,0.77,10,2996.106,329.759,10
+DyF-ZTL,96.755,0.474,10,96.153,2.168,10,86.326,2.648,10,90.313,1.295,10,0.616,0.081,10,4.098,0.986,10,3563.531,751.138,10
+FedAvg,94.735,1.549,10,82.4,10.76,10,81.475,8.625,10,78.626,9.492,10,1.634,0.862,10,3.677,0.811,10,2781.732,468.051,10
+FedProx,96.472,0.364,10,95.11,3.263,10,86.551,2.745,10,89.702,1.508,10,0.717,0.166,10,4.243,0.983,10,4126.375,819.195,10
+FuzzyNoTrust,95.813,1.155,10,86.439,8.117,10,83.086,6.525,10,83.018,7.771,10,1.208,0.6,10,3.368,0.486,10,3630.985,982.659,10

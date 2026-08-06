@@ -1,0 +1,20 @@
+{
+  "fedavg": {
+    "rounds": 10,
+    "total_s": 249.76,
+    "per_round_s": 24.976,
+    "extrapolated_100r_s": 2497.6
+  },
+  "fedprox": {
+    "rounds": 10,
+    "total_s": 346.52,
+    "per_round_s": 34.652,
+    "extrapolated_100r_s": 3465.2
+  },
+  "fuzzy": {
+    "rounds": 10,
+    "total_s": 290.84,
+    "per_round_s": 29.084,
+    "extrapolated_100r_s": 2908.4
+  }
+}

@@ -1,0 +1,5 @@
+Comparison,n_seeds,DyF-ZTL mean,other mean,diff,t_p,wilcoxon_p,cohens_d
+DyF-ZTL vs DeepTrust,10,96.755,95.855,0.9,0.0471,0.0273,0.727
+DyF-ZTL vs FedAvg,10,96.755,94.735,2.02,0.0088,0.0137,1.054
+DyF-ZTL vs FedProx,10,96.755,96.472,0.283,0.0663,0.1309,0.661
+DyF-ZTL vs FuzzyNoTrust,10,96.755,95.813,0.942,0.0669,0.0684,0.659

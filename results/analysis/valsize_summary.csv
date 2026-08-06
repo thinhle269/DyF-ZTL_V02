@@ -1,0 +1,6 @@
+Method,Poison_Ratio,acc_mean,acc_std,f1_mean
+DyF-ZTL_val100,0.4,96.017,0.59,88.923
+DyF-ZTL_val1200,0.4,96.15,0.361,88.54
+DyF-ZTL_val300,0.4,96.22,0.243,89.19
+DyF-ZTL_val600,0.4,96.237,0.215,88.653
+FLTrustFull,0.4,93.347,2.081,83.613
