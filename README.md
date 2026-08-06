@@ -101,12 +101,4 @@ which coordinate through claim files and per-run result markers).
 | Trust-evolution figure | `results/trust_logs/trust_DyF-ZTL_seed0_p0.2.csv` |
 | Raw record of every run | `results/runs.csv` |
 
-## Notes for reviewers
-
-- All metrics are macro-averaged over the seven classes; the paper reports both the
-  macro false-positive rate and the classical benign false-alarm rate (see `src/utils.py`).
-- Krum/Multi-Krum/Trimmed-Mean receive the oracle attacker count `f`
-  (capped at ⌊(K−3)/2⌋; median fallback when trimming would exhaust the population) —
-  see `src/aggregators.py`.
-- The threat model (static label-flipping, full participation, per-seed attacker sets)
-  is specified in Section 5.3 of the paper and implemented in `src/fl_core.py`.
+ 
