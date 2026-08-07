@@ -1,10 +1,7 @@
 # DyF-ZTL: Federated Dynamic Fuzzy Learning for Privacy-Preserving Zero Trust Endpoint Security
 
-Code, experiment logs, and paper artifacts for the manuscript *"DyF-ZTL: Federated Dynamic
-Fuzzy Learning for Privacy-Preserving Zero Trust Endpoint Security"*. This repository
-accompanies the revised submission: every number in the paper can be traced to the run
-logs included here, and every experiment can be re-executed from the scripts below.
-
+  *"DyF-ZTL: Federated Dynamic
+Fuzzy Learning for Privacy-Preserving Zero Trust Endpoint Security"*.  
 ## Repository layout
 
 ```
