@@ -17,8 +17,6 @@ Fuzzy Learning for Privacy-Preserving Zero Trust Endpoint Security"*.
 ├── analyze_results.py       # mean±std tables, paired t / Wilcoxon / Cohen's d_z, pivots
 ├── benchmark_timing.py      # 10-round timing probe (extrapolation check)
 ├── benchmark_timing_full.py # full 100-round wall-clock, 3 repetitions (paper Table 2)
-├── generate_revision_figures.py  # regenerates all paper figures from the logs
-├── make_latex_tables.py     # regenerates LaTeX table bodies from the analysis CSVs
 ├── figures/                 # the exact figures used in the paper (300 dpi)
 └── results/
     ├── runs.csv             # one row per completed run (all 500+ experiments)
