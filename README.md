@@ -47,7 +47,7 @@ and place it at `dataset/Train_Test_Windows_10.csv`. The pipeline removes the 15
 records and 759 rows with non-numeric values, yielding 35,201 samples
 (24,640 train / 5,280 validation / 5,281 test, stratified, `random_state=42`).
 
-## Reproducing the paper
+## Reproducing
 
 Each preset is seeded end-to-end: a seed fixes the data partition, model initialization,
 and the compromised-client set, so all methods face identical conditions per seed.
